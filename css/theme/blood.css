@@ -269,6 +269,13 @@ body {
 .reveal .slide-number {
   color: #a23; }
 
+.light {
+  opacity: 0.5; }
+
+.column {
+  width: 50%;
+  float: left; }
+
 .reveal p {
   font-weight: 300;
   text-shadow: 1px 1px #222; }
