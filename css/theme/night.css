@@ -263,3 +263,10 @@ body {
  *********************************************/
 .reveal .slide-number {
   color: #e7ad52; }
+
+.light {
+  opacity: 0.5; }
+
+.column {
+  width: 50%;
+  float: left; }
